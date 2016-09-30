@@ -1,0 +1,9 @@
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\Release\Project2_CS.exe.config
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\Release\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\Release\Project2_CS.pdb
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.frmEmployeeData.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.frmMenu.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.Properties.Resources.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Release\Project2_CS.pdb

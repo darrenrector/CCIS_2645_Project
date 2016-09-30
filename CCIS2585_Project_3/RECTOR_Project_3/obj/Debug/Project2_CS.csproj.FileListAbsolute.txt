@@ -1,0 +1,10 @@
+c:\users\darren\documents\visual studio 2013\Projects\Project2_CS\bin\Debug\Project2_CS.exe.config
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.frmMenu.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.Properties.Resources.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\Debug\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\Debug\Project2_CS.pdb
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.pdb
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\Debug\Project2_CS.frmEmployeeData.resources

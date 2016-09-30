@@ -1,0 +1,12 @@
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\x86\Debug\Project2_CS.exe.config
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\Project2_CS.pdb
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\x86\Debug\Project2_CS.exe
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\bin\x86\Debug\Project2_CS.pdb
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\Project2_CS.frmEmployeeData.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\Project2_CS.frmMenu.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\Project2_CS.Properties.Resources.resources
+C:\Users\Darren\Documents\Visual Studio 2013\Projects\Project2_CS\obj\x86\Debug\RECTOR_Project2.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\HTC SPR 2016\Project3_CS\bin\x86\Debug\Project2_CS.exe.config
+C:\Users\Darren\Documents\HTC SPR 2016\Project3_CS\obj\x86\Debug\Project2_CS.exe
+C:\Users\Darren\Documents\HTC SPR 2016\Project3_CS\obj\x86\Debug\Project2_CS.pdb
