@@ -1,0 +1,176 @@
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\CallCenter.dll.config
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\CallCenter.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\CallCenter.pdb
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Antlr3.Runtime.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\EntityFramework.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\EntityFramework.SqlServer.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Web.Infrastructure.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Newtonsoft.Json.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Owin.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\System.Web.Optimization.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\System.Web.Providers.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\WebGrease.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\EntityFramework.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\EntityFramework.SqlServer.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Newtonsoft.Json.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.dll
+c:\users\darren\documents\visual studio 2013\Projects\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\CallCenter.dll.config
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Antlr3.Runtime.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Newtonsoft.Json.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\System.Web.Optimization.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\System.Web.Providers.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\WebGrease.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\EntityFramework.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Newtonsoft.Json.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\obj\Debug\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\CallCenter.dll.config
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Antlr3.Runtime.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Newtonsoft.Json.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\System.Web.Optimization.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\System.Web.Providers.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\WebGrease.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\EntityFramework.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Newtonsoft.Json.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\obj\Debug\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\Project_1\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\CallCenter.dll.config
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\CallCenter.pdb
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Antlr3.Runtime.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Newtonsoft.Json.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Owin.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\System.Web.Optimization.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\System.Web.Providers.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\WebGrease.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\EntityFramework.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Forms.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Newtonsoft.Json.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\obj\Debug\CallCenter.dll
+C:\Users\Darren\Documents\2016\ASP.NET\CCIS2645_Project\CallCenter\CallCenter\obj\Debug\CallCenter.pdb

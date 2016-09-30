@@ -1,0 +1,16 @@
+﻿form {
+}
+
+h1 {
+    text-align: center;
+    background-color: lightsteelblue;
+    /*border-width: 5px;*/
+}
+
+body {
+    background-color: lightgray;
+}
+
+#mainButtons {
+    background-color: blue;
+}
